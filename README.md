@@ -2,7 +2,7 @@
 
 Sitio personal de **Carlos Santiago**, Ingeniero de Software y Director de Tecnología y Datos, fundador de **Total Security SH**.
 
-🌐 **En línea:** https://carlossantiago.totalsecuritysh.com
+🌐 **En línea:** https://carlossantiago.totalsecuritysh.com · **English:** https://carlossantiago.totalsecuritysh.com/en/
 
 ## Contenido
 
@@ -20,6 +20,7 @@ Sitio personal de **Carlos Santiago**, Ingeniero de Software y Director de Tecno
 
 ## Características
 
+- Bilingüe: español (`/`) e inglés (`/en/`), con selector ES/EN y etiquetas `hreflang`.
 - Tema claro y oscuro (respeta la preferencia del sistema y recuerda la elección).
 - Recorrido automático: la página baja sola con pausas en cada sección; se detiene al usar la rueda, el teclado o el tacto.
 - Animaciones con CSS: guías de construcción, cursores de agentes, revelado con el scroll (`animation-timeline: view()`) y barra de progreso de lectura.
@@ -29,7 +30,8 @@ Sitio personal de **Carlos Santiago**, Ingeniero de Software y Director de Tecno
 ## Estructura
 
 ```
-index.html     Página completa (estilos y script incluidos)
+index.html     Página en español (estilos y script incluidos)
+en/index.html  Página en inglés
 favicon.svg    Ícono
 media/         Capturas, video y fotografía
 vercel.json    Encabezados de caché y seguridad
